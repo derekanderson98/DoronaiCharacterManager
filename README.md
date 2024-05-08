@@ -11,5 +11,5 @@ Lessons learned in this project:
 
 Problems with this project:
 1. There is far too much logic in the model layer. These classes should contain information. The functions calculating values should be in the control layer.
-2. There is insufficient unit testing, partially due to the issues with the model layer.
+2. There is currently no testing implemented.
 3. While useful for file pickers, Swing is a very limited frontend framework, and this project would be better suited by utilizing a newer and more versatile system.
