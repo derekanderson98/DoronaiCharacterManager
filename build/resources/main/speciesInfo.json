@@ -1,0 +1,18 @@
+{
+  "speciesList": [
+    {
+      "speciesName": "matoran",
+      "walkSpeed": 10,
+      "flySpeed": 0,
+      "swimSpeed": 5,
+      "climbSpeed": 2
+    },
+    {
+      "speciesName": "toa",
+      "walkSpeed": 15,
+      "flySpeed": 0,
+      "swimSpeed": 5,
+      "climbSpeed": 5
+    }
+  ]
+}

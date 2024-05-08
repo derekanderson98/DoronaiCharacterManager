@@ -1,0 +1,32 @@
+{
+  "skills": [
+    {"name": "athletics", "category": "STR", "statType": "STR"},
+    {"name": "intimidate (str)", "category": "STR", "statType": "STR"},
+    {"name": "swim", "category": "STR", "statType": "STR"},
+    {"name": "acrobatics", "category": "DEX", "statType": "DEX"},
+    {"name": "sleight of hand", "category": "DEX", "statType": "DEX"},
+    {"name": "stealth", "category": "DEX", "statType": "DEX"},
+    {"name": "endurance", "category": "CON", "statType": "CON"},
+    {"name": "focus", "category": "CON", "statType": "CON"},
+    {"name": "mech. engineer", "category": "INT", "statType": "INT"},
+    {"name": "power engineer", "category": "INT", "statType": "INT"},
+    {"name": "use adv. tech", "category": "INT", "statType": "INT"},
+    {"name": "piloting", "category": "INT", "statType": "INT"},
+    {"name": "hacking", "category": "INT", "statType": "INT"},
+    {"name": "linguistics", "category": "INT", "statType": "INT"},
+    {"name": "medicine", "category": "INT", "statType": "INT"},
+    {"name": "survival", "category": "INT", "statType": "INT"},
+    {"name": "insight", "category": "WIS", "statType": "WIS"},
+    {"name": "perception", "category": "WIS", "statType": "WIS"},
+    {"name": "bluff", "category": "CHA", "statType": "CHA"},
+    {"name": "diplomacy", "category": "CHA", "statType": "CHA"},
+    {"name": "intimidate (cha)", "category": "CHA", "statType": "CHA"},
+    {"name": "leadership", "category": "CHA", "statType": "CHA"},
+    {"name": "rahi handling", "category": "CHA", "statType": "CHA"},
+    {"name": "kn: geography", "category": "KNOWLEDGE", "statType": "INT"},
+    {"name": "kn: history", "category": "KNOWLEDGE", "statType": "INT"},
+    {"name": "kn: powers", "category": "KNOWLEDGE", "statType": "INT"},
+    {"name": "kn: science", "category": "KNOWLEDGE", "statType": "INT"},
+    {"name": "kn: society", "category": "KNOWLEDGE", "statType": "INT"}
+  ]
+}
